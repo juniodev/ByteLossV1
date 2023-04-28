@@ -2,6 +2,8 @@ __pycache__/
 ChatterBot/
 
 database.sqlite3
+database.sqlite3-shm
+database.sqlite3-wal
 
 data.json
 
