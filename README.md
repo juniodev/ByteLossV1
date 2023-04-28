@@ -26,6 +26,16 @@
 
    Isso retornará o terminal ao ambiente padrão.
 
+## Instale todas dependências do projeto 
+
+Para instalar todas as dependências do projeto, execute o seguinte comando no terminal:
+
+pip install -r requirements.txt
+
+Além disso, é necessário baixar o modelo de linguagem `en_core_web_sm` do spaCy. Para isso, execute o seguinte comando no terminal:
+
+python -m spacy download en_core_web_sm
+
 ## Configurando o token do bot do Telegram
 
 1. Abra o arquivo `main.py` em um editor de texto.
