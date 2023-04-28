@@ -1,0 +1,4 @@
+telebot
+spacy
+chatterbot
+pandas

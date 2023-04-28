@@ -1,0 +1,8 @@
+__pycache__/
+ChatterBot/
+
+database.sqlite3
+
+data.json
+
+texto.txt
